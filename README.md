@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [suka.mom](suka.mom)
+- 🔭 I’m currently working on [shots.ink](shots.ink)
 
 - 👯 I’m looking to collaborate on [ezoterik](gamesense.pub)
 
