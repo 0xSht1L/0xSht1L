@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [shots.ink](shots.ink)
+- 🔭 I’m currently working on [senseteam](https://t.me/senseteam)
 
 - 👯 I’m looking to collaborate on [ezoterik](gamesense.pub)
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a Reverse Engineer**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: @thesht1L</h3>
 <p align="left">
 </p>
 
