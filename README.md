@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am a Reverse Engineer**
 
-<h3 align="left">Connect with me: @thesht1L</h3>
+<h3 align="left">Connect with me: @thesht1L (tg)</h3>
 <p align="left">
 </p>
 
