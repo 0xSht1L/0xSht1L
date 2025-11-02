@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sht1Ldev@icloud.com**
 
-- ⚡ Fun fact **I am a Reverse Engineer**
-
 <h3 align="left">Connect with me: @thesht1L (tg)</h3>
 <p align="left">
 </p>
